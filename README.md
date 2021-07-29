@@ -1,3 +1,3 @@
 # Coding-Problems
 
-### If you like it, please give a Star :
+### If you like it, please give a Star :)
